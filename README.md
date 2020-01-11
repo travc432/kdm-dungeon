@@ -1,16 +1,4 @@
-Pixel Dungeon
+KDM Dungeon
 =============
 
-Traditional roguelike game with pixel-art graphics and simple interface.
-
-Pixel Dungeon on GooglePlay: 
-https://play.google.com/store/apps/details?id=com.watabou.pixeldungeon
-
-Official web-site: 
-http://pixeldungeon.watabou.ru/
-
-Developer's blog: 
-http://pixeldungeon.tumblr.com/
-
-To build the game you will need my unnamed game library:
-https://github.com/watabou/PD-classes
+This is a fork of watabou's pixel-dungeon.  The goal is to learn a bit about game design, coding and play with the theme and mechanics of the game to use of some Poots' masterpiece KDM.
